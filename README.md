@@ -6,7 +6,7 @@ Welcome to my GitHub profile!
 ### About Me
 
 - 🔭 I’m currently pursuing CSE from KIIT,Bhubaneswar.
-- 🌱 I’m currently learning JAVA, DBMS, BASH, LINUX.
+- 🌱 I’m currently learning JAVA, HTML, CSS,  JavaScript, SQL.
 - 📫 How to reach me: Gmail - devnasharma1903@gmail.com , Instagram - @_devna_sharma
 - 😄 Pronouns: She/Her
 
