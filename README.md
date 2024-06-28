@@ -16,3 +16,8 @@ Welcome to my GitHub profile!
 - 🌍 I like watching the sky.
 
 Let's connect and collaborate on exciting projects! 😊
+
+
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@devnasharma19/30-nites-of-code)  
+  ![@devnasharma19 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=devnasharma19)
